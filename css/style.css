@@ -232,6 +232,7 @@
     font-family: "Roboto Condensed";
     background-color: #ffffff;
     border-radius: 0;
+    -webkit-appearance: none;
 }
 .cities_select:focus {
     border: none;
