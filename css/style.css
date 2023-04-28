@@ -231,6 +231,7 @@
     font-weight: 500;
     font-family: "Roboto Condensed";
     background-color: #ffffff;
+    border-right: 0;
 }
 .cities_select:focus {
     border: none;
