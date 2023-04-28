@@ -615,5 +615,8 @@
     .connect_title:nth-child(2) {
         margin-bottom: 0;
     }
+    .connect {
+        padding-top: 0;
+    }
 }
 
