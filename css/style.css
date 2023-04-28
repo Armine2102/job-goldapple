@@ -130,7 +130,7 @@
     right: 2%;
     width: 51px;
     font-size: 25px;
-    letter-spacing: 0.9;
+    letter-spacing: 1px;
 }
 .img_text:after {
     content: " ";
@@ -191,7 +191,7 @@
 }
 .main .banner {
     height: 100vh;
-    min-height: 720px;
+    min-height: 900px;
     overflow: hidden;
     background-color: #e4dfe0;;
 }
@@ -230,6 +230,7 @@
     font-size: 16px;
     font-weight: 500;
     font-family: "Roboto Condensed";
+    background-color: #ffffff;
 }
 .cities_select:focus {
     border: none;
@@ -557,6 +558,9 @@
     .container {
         width: 100%;
     }
+    .main .banner {
+        min-height: 812px;
+    }
     .header {
         height: 50px;
     }
@@ -592,7 +596,7 @@
         margin-bottom: 101%;
     }
     .img_text {
-        top: 805px;
+        top: 770px;
         opacity: 1;
         right: 50%;
     }
