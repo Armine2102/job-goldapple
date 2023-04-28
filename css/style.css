@@ -203,6 +203,7 @@
     display: flex;
     justify-content: center;
     column-gap: 60px;
+    padding-bottom: 10px;
 }
 .connect_item:nth-child(2) {
     margin-top: 12px;
